@@ -4,7 +4,28 @@
 
 Projeto da _Trilha Impulse_ da 8ª Edição do NLW da _RocketSeat_.
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Rodando a Aplicação
+
+### 🔧 Configuração Inicial
+
+- Requer **NodeJS**
+- Requer **NPM**
+
+### Web (Front-End)
+
+```sh
+npm install --prefix ./web
+npm run dev --prefix ./web
+```
+
+### Server (Back-End)
+
+```sh
+npm install --prefix ./server
+npm run dev --prefix ./server
+```
+
+## 🔧 Tecnologias utilizadas
 
 ### 👨‍🚀 Stage 1/5
 
@@ -24,8 +45,8 @@ Projeto da _Trilha Impulse_ da 8ª Edição do NLW da _RocketSeat_.
 
 - Feedback Widget (Web);
 
-> Feito com 💜 por Plínio
-
-## Licença
+## 📝 Licença
 
 Licenciado sob a licença do [MIT](LICENSE.txt).
+
+> Feito com 💜 por Plínio
