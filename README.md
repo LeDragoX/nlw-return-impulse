@@ -28,11 +28,11 @@ npm run dev
 
 #### Teste no Endpoint
 
-<img src="./assets/app-backend.gif" width="600px" />
+<img src="./assets/app-backend.gif" width="756px" />
 
 #### Teste de Email
 
-<img src="./assets/app-backend-email.gif" width="600px" />
+<img src="./assets/app-backend-email.gif" width="756px" />
 
 ```sh
 cd server
