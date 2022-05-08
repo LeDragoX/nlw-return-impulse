@@ -26,8 +26,13 @@ npm run dev
 
 ### 🗄 _Server_ (_Back-End_)
 
-<img src="./assets/app-backend.gif" width="500px" />
-<img src="./assets/app-backend-email.gif" width="500px" />
+#### Teste no Endpoint
+
+<img src="./assets/app-backend.gif" width="600px" />
+
+#### Teste de Email
+
+<img src="./assets/app-backend-email.gif" width="600px" />
 
 ```sh
 cd server
@@ -48,7 +53,7 @@ Dados de teste:
 
 ### 📱 _Mobile_ (_Front-End_)
 
-<img src="./assets/app-mobile.gif" width="400px" />
+<img src="./assets/app-mobile.gif" height="764px" />
 
 ```sh
 npm install -g yarn
