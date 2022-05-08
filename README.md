@@ -1,4 +1,8 @@
+<div align="center">
+
 # 👨🏻‍🚀 NLW Return – Mission Impulse: Stage 5/5 👩🏻‍🚀
+
+</div>
 
 ## 📄 Descrição
 
@@ -14,7 +18,11 @@ Projeto da _Trilha Impulse_ da 8ª Edição do NLW da _RocketSeat_.
 
 ### 🕸 _Web_ (_Front-End_)
 
-<img src="./assets/app-web.gif" width="500px" />
+<div align="center">
+
+<img src="./assets/app-web.gif" width="75%" />
+
+</div>
 
 ```sh
 cd web
@@ -26,13 +34,17 @@ npm run dev
 
 ### 🗄 _Server_ (_Back-End_)
 
+<div align="center">
+
 #### Teste no Endpoint
 
-<img src="./assets/app-backend.gif" width="756px" />
+<img src="./assets/app-backend.gif" width="75%" />
 
 #### Teste de Email
 
-<img src="./assets/app-backend-email.gif" width="756px" />
+<img src="./assets/app-backend-email.gif" width="75%" />
+
+</div>
 
 ```sh
 cd server
@@ -53,7 +65,11 @@ Dados de teste:
 
 ### 📱 _Mobile_ (_Front-End_)
 
-<img src="./assets/app-mobile.gif" height="764px" />
+<div align="center">
+
+<img src="./assets/app-mobile.gif" width="75%" />
+
+</div>
 
 ```sh
 npm install -g yarn
