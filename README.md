@@ -18,11 +18,12 @@ Projeto da _Trilha Impulse_ da 8ª Edição do NLW da _RocketSeat_.
 
 ### 🕸 _Web_ (_Front-End_)
 
-<div align="center">
-
-<img src="./assets/app-web.gif" width="75%" />
-
-</div>
+<details>
+  <summary>Mostrar imagens</summary>
+  <div align="center">
+    <img src="./assets/app-web.gif" width="75%" />
+  </div>
+</details>
 
 ```sh
 cd web
@@ -34,7 +35,9 @@ npm run dev
 
 ### 🗄 _Server_ (_Back-End_)
 
-<div align="center">
+<details>
+  <summary>Mostrar imagens</summary>
+  <div align="center">
 
 #### Teste no Endpoint
 
@@ -44,7 +47,8 @@ npm run dev
 
 <img src="./assets/app-backend-email.gif" width="75%" />
 
-</div>
+  </div>
+</details>
 
 ```sh
 cd server
@@ -58,18 +62,19 @@ Dados de teste:
 
 ```json
 {
- "type": "BUG",
- "comment": "Está tudo bugado!"
+  "type": "BUG",
+  "comment": "Está tudo bugado!"
 }
 ```
 
 ### 📱 _Mobile_ (_Front-End_)
 
-<div align="center">
-
-<img src="./assets/app-mobile.gif" width="75%" />
-
-</div>
+<details>
+  <summary>Mostrar imagens</summary>
+  <div align="center">
+    <img src="./assets/app-mobile.gif" width="75%" />
+  </div>
+</details>
 
 ```sh
 npm install -g yarn
